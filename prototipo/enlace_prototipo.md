@@ -1,7 +1,7 @@
 # Enlace del prototipo
 
 - Prototipo navegable en Figma: https://www.figma.com/make/89sVTYj9izhS943JTMSiDz/Tutor%C3%ADa-F%C3%A1cil-UTA-Interface-Design
-- Tablero FigJam del análisis: PEGAR_LINK_FIGJAM
+- Tablero FigJam del análisis: https://www.figma.com/board/6rpIF3LlNkCT5dHo1fnHIe/Grupo-3-Tutoria-Facil-UTA-Analisis
 
 ## Pantallas
 
