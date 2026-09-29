@@ -6,7 +6,7 @@
 |---|---|
 | Tarea | Reservar una tutoría para el jueves y luego cambiar el horario |
 | Prototipo | [Tutoría Fácil UTA, grupo 3](../prototipo/enlace_prototipo.md) |
-| Participante | NOMBRE COMPLETO, grupo 4 |
+| Participante | Sebatian Vaca, grupo 4 |
 | Observador | Mauricio Guevara |
 | Instrucción | Se entregó el prototipo sin explicar cómo funciona |
 | Completó la reserva | SÍ o NO |
