@@ -51,7 +51,7 @@ Reto: diseñar una aplicación web móvil para consultar disponibilidad, reserva
 
 ## Resumen de la prueba e iteración
 
-Pendiente de la prueba cruzada. El detalle queda en [evaluacion/prueba_iteracion.md](evaluacion/prueba_iteracion.md).
+La prueba cruzada está registrada en [evaluacion/prueba_iteracion.md](evaluacion/prueba_iteracion.md), junto con sus datos y evidencias asociadas.
 
 ## Flujo de trabajo
 
