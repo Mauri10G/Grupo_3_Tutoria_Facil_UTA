@@ -9,13 +9,13 @@
 | Participante | Sebatian Vaca, grupo 4 |
 | Observador | Mauricio Guevara |
 | Instrucción | Se entregó el prototipo sin explicar cómo funciona |
-| Completó la reserva | SÍ o NO |
-| Completó el cambio de horario | SÍ o NO |
-| Tiempo aproximado | X s |
-| Acciones o toques | X |
-| Error o duda observada | LO QUE PASÓ |
-| Satisfacción de 1 a 7 | X |
-| Comentario final | LO QUE DIJO |
+| Completó la reserva | SÍ  |
+| Completó el cambio de horario | SÍ |
+| Tiempo aproximado | 30 s |
+| Acciones o toques | 14 |
+| Error o duda observada | Ninguna |
+| Satisfacción de 1 a 7 | 6 |
+| Comentario final | Que le gustaba la interfaz |
 
 ## Comparación con los indicadores
 
